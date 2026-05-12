@@ -100,5 +100,3 @@ Extends SoundMatch 1.0 by placing three recommendation approaches side by side: 
 **Tech:** Python · Gemini 2.5 Flash · RAG · LLM Evaluation · pytest
 
 </details>
-Copy full README'; }, 1800); ">
-Copy full README
