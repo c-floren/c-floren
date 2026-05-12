@@ -40,7 +40,6 @@ I'm a CS student building toward a career in software engineering, with a growin
 
 ### ⚡ A Bit About Me
 - 🎹 Self-taught pianist and guitarist
-- 🧶 I crochet — yes, really
 - 🔍 Curious about how things work under the hood, which is why I ended up in CS
 
 ---
