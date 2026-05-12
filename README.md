@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ## Hi, I'm Chabelee Florentino 👋
-**Computer Science student**
 
 I'm a CS student building toward a career in software engineering, with a growing focus on applied AI. I learn best by building things. I'm currently expanding into Java and Spring Boot while deepening my understanding of how LLMs work and how to build practical applications around them.
 
