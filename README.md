@@ -52,7 +52,7 @@ I'm a CS student building toward a career in software engineering, with a growin
 <summary><b>🕵️ Game Glitch Investigator — Module 1</b></summary>
 <br>
 
-A debugging exercise built on a broken Streamlit number-guessing game. Tracked down and fixed six bugs — including a resetting secret number, reversed hints, a broken score system, and a stale debug panel — then refactored the logic into a testable module with a full pytest suite.
+A debugging exercise built on a broken Streamlit number-guessing game. Tracked down and fixed six bugs, including a resetting secret number, reversed hints, a broken score system, and a stale debug panel, then refactored the logic into a testable module with a full pytest suite.
 
 🔗 [View repo](https://github.com/c-floren/ai110-module1show-gameglitchinvestigator-starterGame)
 
@@ -80,7 +80,7 @@ A Streamlit pet care scheduler that builds a conflict-aware, priority-sorted dai
 <summary><b>🎵 SoundMatch 1.0 — Music Recommender · Module 3</b></summary>
 <br>
 
-A content-based music recommender that scores songs against a user taste profile using weighted features: genre (40%), mood (30%), energy closeness (15%), danceability (10%), and acousticness (5%). Fully transparent — every recommendation can be explained by the scoring formula. Includes a model card analyzing bias toward exact genre/mood string matches.
+A content-based music recommender that scores songs against a user taste profile using weighted features: genre (40%), mood (30%), energy closeness (15%), danceability (10%), and acousticness (5%). Fully transparent, every recommendation can be explained by the scoring formula. Includes a model card analyzing bias toward exact genre/mood string matches.
 
 🔗 [View repo](https://github.com/c-floren/ai110-module3show-musicrecommendersimulation-starter)
 
