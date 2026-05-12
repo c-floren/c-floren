@@ -39,8 +39,9 @@ I'm a CS student building toward a career in software engineering, with a growin
 ---
 
 ### ⚡ A Bit About Me
-- Curious about how things work under the hood, which is why I ended up in CS
+- Got into CS because I love the challenge of breaking down hard problems and building something real from the solution
 - Self-taught pianist and guitarist
+- Recently studied abroad in Madrid, Spain
 
 ---
 
