@@ -39,8 +39,8 @@ I'm a CS student building toward a career in software engineering, with a growin
 ---
 
 ### ⚡ A Bit About Me
-- 🎹 Self-taught pianist and guitarist
-- 🔍 Curious about how things work under the hood, which is why I ended up in CS
+- Curious about how things work under the hood, which is why I ended up in CS
+- Self-taught pianist and guitarist
 
 ---
 
@@ -93,7 +93,7 @@ A content-based music recommender that scores songs against a user taste profile
 <summary><b>🚀 SoundMatch 2.0 — AI-Augmented Recommender · Final Project</b></summary>
 <br>
 
-Extends SoundMatch 1.0 by placing three recommendation approaches side by side: a deterministic rule-based scorer, a naive LLM call (Gemini 2.5 Flash), and a retrieval-augmented (RAG) call where the rule-based scorer acts as the retriever. Makes trade-offs concrete — including how RAG handles edge cases like missing genres that the naive LLM silently fumbles.
+Extends SoundMatch 1.0 by placing two AI recommendation approaches side by side: a naive LLM call (Gemini 2.5 Flash) and a retrieval-augmented (RAG) call where the rule-based scorer acts as the retriever. Makes trade-offs concrete, including how RAG handles edge cases like missing genres that the naive LLM silently fumbles.
 
 🔗 [View repo](https://github.com/c-floren/applied-ai-system-project)
 
