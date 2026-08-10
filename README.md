@@ -13,9 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm Chabelee Florentino 👋
+<!--
+**c-floren/c-floren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+## Hi, I'm Chabelee 👋
 
 I'm a CS student building toward a career in software engineering, with a growing focus on applied AI. I'm currently expanding into Java and Spring Boot while deepening my understanding of how LLMs work and how to build practical applications around them.
+
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/chabelee-florentino/)
+
+
 
 ---
 
@@ -29,6 +37,24 @@ I'm a CS student building toward a career in software engineering, with a growin
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
+
+### 🌟 Featured Project
+
+**Keeper — AI Outfit Restyler**
+Photograph an outfit that failed, mark the piece you love, and get three restyles that keep it — built from real in-stock clothing, rendered on your body, in colors matched to your complexion. Built for the [YouCam API Skin AI & Apparel VTO Hackathon](https://youcam-api.devpost.com/).
+
+*My role: product concept, workflow, data model, and UI design. Built with AI-assisted development (Claude).*
+ 
+🔗 [View repo](https://github.com/c-floren/keeper) · **Tech:** Next.js · TypeScript · Prisma · Tailwind CSS · Vitest · YouCam Apparel VTO API · YouCam Facial Color Tones API
+
+---
+
+### 🤝 Open Source
+
+Contributing to [GitLab](https://gitlab.com/gitlab-org/gitlab) as a community contributor — currently working on documentation accessibility improvements.
+
+![GitLab Contributor Stats](https://contributors.gitlab.com/users/c-floren/banner.svg)
 ---
 
 ### 🎯 Currently Focused On
