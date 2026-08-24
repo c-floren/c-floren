@@ -52,7 +52,7 @@ Photograph an outfit that failed, mark the piece you love, and get three restyle
 
 ### 🤝 Open Source
 
-Contributing to [GitLab](https://gitlab.com/gitlab-org/gitlab) as a community contributor — currently working on documentation accessibility improvements.
+Contributing to [GitLab](https://gitlab.com/gitlab-org/gitlab) as a community contributor.
 
 ![GitLab Contributor Stats](https://contributors.gitlab.com/users/c-floren/banner.svg)
 ---
